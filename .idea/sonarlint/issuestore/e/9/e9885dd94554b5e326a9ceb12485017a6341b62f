@@ -1,0 +1,21 @@
+
+d
+java:S1104"NMake BO a static final constant or non-public and provide accessors if needed.(öé°
+>
+java:S1444"(Make this "public static BO" field final(öé°
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ãø€¥
+`
+java:S2095"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ
+c
+java:S3008"MRename this field "BO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öé°
+3
+java:S2386"Make this member "protected".(öé°
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ª†à¨
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ßÚè°ıÿÿÿÿ
+T
+java:S4719$"9Replace charset name argument with StandardCharsets.UTF_8(åıÙÆûÿÿÿÿ
+_
+java:S2147@"DCombine this catch with the one at line 62, which has the same body.(†ëˆçùÿÿÿÿ

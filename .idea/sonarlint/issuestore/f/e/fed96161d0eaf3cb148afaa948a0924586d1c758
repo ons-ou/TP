@@ -1,0 +1,13 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(°ÜßÅ
+`	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ùª­îşÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÜßÅ
+k	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùß‘‚ùÿÿÿÿ
+l	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùß‘‚ùÿÿÿÿ
+>
+java:S1604q"(Make this anonymous inner class a lambda(Ï¸
+D
+java:S1604“"(Make this anonymous inner class a lambda(«ªäóúÿÿÿÿ
+r	java:S116"XRename this field "EXCHANGE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô™õ¶üÿÿÿÿ
+_
+java:S32525"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
